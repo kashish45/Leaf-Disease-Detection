@@ -27,7 +27,7 @@ cloudpickle==1.4.1
 cmake==3.17.3
 colorama==0.4.3
 configparser==5.0.0
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
